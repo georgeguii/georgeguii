@@ -10,8 +10,8 @@
 <ul align="left">
   <li>👨‍💻 Sou um desenvolvedor backend apaixonado por tecnologia, com um foco especial em C# e .NET</li>
   <li>🤩️ Amante de Tecnologia, Jogos e Música 
-  <li>📚 Cursando Análise e Desenvolvimento de Sistemas na Estácio e complemento meus estudos através de cursos como o do <a href="https://balta.io">balta.io</a> e do <a href="https://jstack.com.br">JStack</a></li>
-  <li>💻 Atualmente trabalho com .NET Core e em projetos freelancers utilizo React</li>
+  <li>📚 Analista de Sistemas graduado na Estácio</li>
+  <li>💻 Atualmente trabalho com SpringBoot/.NET Core e em projetos freelancers utilizo React</li>
   <li>✨ Meu objetivo é, em breve, me tornar um Engenheiro de Software </li>
 </ul>
 
@@ -53,7 +53,14 @@
         </b>
       </sub>
     </td>
-   
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring Icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Spring&emsp;</pre>
+        </b>
+      </sub>
+    </td>
   </tr>
   <tr>
    <td align="center">
@@ -85,6 +92,14 @@
       <sub>
         <b>
           <pre>&emsp;GitHub&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java Icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Java&emsp;</pre>
         </b>
       </sub>
     </td>
