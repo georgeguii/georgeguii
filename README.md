@@ -1,148 +1,69 @@
 <div align="center">
   <br>
- 
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=f5f5f5&center=true&width=600&lines=Bem-vindo(a),+eu+me+chamo+George!) 
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=f5f5f5&center=true&width=600&lines=Bem-vindo(a),+eu+me+chamo+George!">
 </div>
 
-<br>
+---
 
-<h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
-<ul align="left">
-  <li>👨‍💻 Sou um desenvolvedor backend apaixonado por tecnologia, com um foco especial em C# e .NET</li>
-  <li>🤩️ Amante de Tecnologia, Jogos e Música 
-  <li>📚 Analista de Sistemas graduado na Estácio</li>
-  <li>💻 Atualmente trabalho com SpringBoot/.NET Core e em projetos freelancers utilizo React</li>
-  <li>✨ Meu objetivo é, em breve, me tornar um Engenheiro de Software </li>
-</ul>
+<h2 align="center">🧠&ensp;<i>Sobre mim</i>&ensp;🧠</h2>
 
-<br>
+Sou desenvolvedor backend com forte foco em **engenharia e arquitetura de software**. Tenho experiência com sistemas baseados em .NET, Java (Spring Boot) e foco em **alta performance, escalabilidade, testes, cache e mensageria**. Estou em transição para atuar mais estrategicamente como **arquiteto de software**, consolidando uma visão técnica e sistêmica de ponta a ponta.
 
-<h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i> &ensp;🛠️</h2>
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas, cursando Arquitetura de Software Distribuído.
+- 💼 Atuando com .NET Core e Spring Boot.
+- 🔧 Git, Docker, Redis, MongoDB, RabbitMQ, SQLServer fazem parte do meu dia a dia técnico.
 
-<table align="center" height="300px">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cs" width="65px" alt="CSharp icon"/><br>
-      <sub>
-        <b>
-          <pre>C#</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="65px" alt="Dotnet Icon"/><br>
-      <sub>
-        <b>
-          <pre>.NET</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript Icon"/><br>
-      <sub>
-        <b>
-          <pre>JavaScript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git Icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Git&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring Icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Spring&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind Icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;Tailwind&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS Icon"/><br>
-      <sub>
-        <b>
-          <pre>React</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=visualstudio" width="65px" alt="Visual Studio Icon"/><br>
-      <sub>
-        <b>
-          <pre>Visual Studio</pre>
-        </b>
-      </sub>
-    </td>
-       <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub Icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;GitHub&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java Icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Java&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-</table> 
+---
 
-<br>
+<h2 align="center">🛠️&ensp;<i>Stack Principal</i>&ensp;🛠️</h2>
 
-<h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏｓ</i> &ensp;💬</h2>
-<br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/george-gs-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/ggui.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</p
- 
-<br>
+  <img src="https://skillicons.dev/icons?i=aws,cs,dotnet,java,spring,mongodb,rabbitmq,redis,docker,git,github" />
+</p>
 
-<h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
+---
+
+<h2 align="center">🏗️&ensp;<i>Projetos</i>&ensp;🏗️</h2>
+
 <table width="365px" align="center">
   <tr>
     <td>
-    <a href="https://github.com/georgeguii/desafio-balta-api-ibge" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=georgeguii&repo=desafio-balta-api-ibge&theme=github_dark">
-    </a>
+      <a href="https://github.com/georgeguii/desafio-balta-api-ibge" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=georgeguii&repo=desafio-balta-api-ibge&theme=github_dark">
+      </a>
     </td>
-   <td>
-    <a href="https://github.com/georgeguii/SistemaFinanceiro" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=georgeguii&repo=SistemaFinanceiro&theme=github_dark">
-    </a>
+    <td>
+      <a href="https://github.com/georgeguii/SistemaFinanceiro" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=georgeguii&repo=SistemaFinanceiro&theme=github_dark">
+      </a>
     </td>
   </tr>
 </table>
 
-<br>
- 
+---
 
-<h2 align="center">📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</h2>
- 
- <br><br>
- <img src="https://komarev.com/ghpvc/?username=georgeguii&color=blueviolet" align="left">
- <div align="center">
-   <a href="https://github.com/georgeguii">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=georgeguii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeguii&layout=compact&langs_count=4&theme=dracula"/>
- </div>
- 
+<h2 align="center">🌐&ensp;<i>Contato</i>&ensp;🌐</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/george-gs-silva/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/ggui.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+---
+
+<h2 align="center">📈&ensp;<i>Atividade GitHub</i>&ensp;📈</h2>
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=georgeguii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeguii&layout=compact&langs_count=6&theme=dracula"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=georgeguii&color=blueviolet">
+</p>
